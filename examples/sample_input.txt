@@ -1,0 +1,23 @@
+Product Planning Meeting - May 18, 2026
+
+Participants: Sarah (Product Manager), Mike (Developer), Lisa (Designer), Tom (QA)
+
+Sarah: Good morning everyone. Let's discuss the Q2 roadmap. Mike, can you complete the API integration by end of this month? It's critical for the launch.
+
+Mike: Yes, I'll have it done by May 31st. I'll also need to update the API documentation.
+
+Sarah: Great. Lisa, we need the new UI mockups for the dashboard. Can you have those ready by next Friday?
+
+Lisa: Absolutely. I'll create the mockups and share them for review by May 24th.
+
+Tom: I'll need to test everything once Mike's integration is complete. I should start the test plan this week.
+
+Sarah: Perfect. Tom, please have the test plan ready by May 22nd so we can review it together.
+
+Mike: One more thing - someone needs to update the deployment scripts. It's not urgent but should be done before launch.
+
+Sarah: Good point. Mike, can you handle that as well? Let's target early June for that.
+
+Mike: Sure, I'll add it to my list.
+
+Sarah: Excellent. Let's reconvene next Monday to check progress. Meeting adjourned.
