@@ -36,7 +36,7 @@ class MeetingAgent:
             raise ValueError("OpenAI API key not found. Set OPENAI_API_KEY environment variable.")
         
         self.client = OpenAI(api_key=self.api_key)
-        self.model = "gpt-4"  # or "gpt-3.5-turbo" for faster/cheaper
+        self.model = os.getenv("OPENAI_MODEL", "gpt-3.5-turbo")  # Read from env or default to gpt-3.5-turbo
     
     def parse_input(self, transcript: str, metadata: Optional[Dict[str, Any]] = None) -> Dict[str, Any]:
         """
